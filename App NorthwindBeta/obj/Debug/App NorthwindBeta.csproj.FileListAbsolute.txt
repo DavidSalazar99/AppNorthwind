@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\bin\Debug\App NorthwindBeta.exe.config
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\bin\Debug\App NorthwindBeta.exe
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\bin\Debug\App NorthwindBeta.pdb
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\bin\Debug\EntityFramework.dll
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\bin\Debug\EntityFramework.xml
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\obj\Debug\App NorthwindBeta.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\obj\Debug\App_NorthwindBeta.Form1.resources
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\obj\Debug\App_NorthwindBeta.Properties.Resources.resources
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\obj\Debug\App NorthwindBeta.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\obj\Debug\App NorthwindBeta.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\obj\Debug\App Nort.D02E3240.Up2Date
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\obj\Debug\App NorthwindBeta.exe
+C:\Users\ACER\Desktop\Programación\Windows Forms\App NorthwindBeta\App NorthwindBeta\obj\Debug\App NorthwindBeta.pdb
